@@ -4,6 +4,7 @@ plugins {
     id("org.jetbrains.kotlin.android")
     id("com.google.dagger.hilt.android")
     id("io.realm.kotlin")
+    id("org.jlleitschuh.gradle.ktlint")
 }
 
 android {
